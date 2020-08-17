@@ -18,10 +18,10 @@ I'm actually not planning on pursuing a career in FinTech. I would like to trade
 
 ### Table of Contents
 
-[<a href="https://github.com/kbodana/FinTech/tree/master/code">](https://github.com/)
+[Code](https://github.com/kbodana/FinTech/tree/master/code)
 
-[<a href="https://github.com/kbodana/FinTech/tree/master/data">](https://github.com/)
+[Data](https://github.com/kbodana/FinTech/tree/master/data)
 
-[<a href="https://github.com/kbodana/FinTech/tree/master/images">](https://github.com/)
+[Images](https://github.com/kbodana/FinTech/tree/master/images)
 
-[<a href="https://github.com/kbodana/FinTech/tree/master/references">](https://github.com/)
+[References](https://github.com/kbodana/FinTech/tree/master/references)
