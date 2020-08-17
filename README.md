@@ -6,15 +6,15 @@
 
 ## My Background
 
-I'm a UW Business school grad. After school, I actually got into technology and then information security. I've worked mostly in the financial services space, however, I currently work for a video game company.
+I'm a UW Business school grad. After school, I actually got into technology and then information security. I've worked mostly in the financial services space.
 
 ## Career Goals
 
-My long-term goal is to get out of the 9-5 routine and trade markets full time.
+Win the lottery and retire.
 
 ## FinTech Career Path
 
-I'm actually not planning on pursuing a career in FinTech. I would like to trade independently full time and would like to be able to analyze data sets of financial data and automate my trading as much as possible.
+I'm actually not planning on pursuing a career in FinTech. I was drawn to this program because of the emphasis on using Python and machine learning to analyze large data sets.
 
 ### Table of Contents
 
