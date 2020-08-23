@@ -36,7 +36,7 @@ Robinhood has become a serious competitor to well established industry leaders. 
 The company managed to add 100,000 users in their first month. By 2018 they had already surpased E-Trade with 4M brokerage accounts. After just 6 years in operation, Robinhood passed 10M users in late 2019. According to an SEC filing this year, Robinhood doubled the money ($180M) they make from selling their customers' order flows to high frequency trading firms. The majority of that increase came from their options trading service. Robinhood manages to make about $0.17 per 100 shares of order flow information they provide to market makers. Charles Schwab on the other hand makes about $0.11. Robinhood tied with TD Ameritrade at $0.58 per 100 shares of options order flow that is sold. E-Trade and Schwab earned $0.46 and $0.37, respectively.
 
 <p align="center">
-<img src="../images/orderflow.jpg" alt="Order Flow" width="500" height="450">
+<img src="../images/orderflow.jpg" alt="Order Flow" width="550" height="400">
 </p>
 
 ## Recommendations
